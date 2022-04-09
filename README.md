@@ -42,3 +42,6 @@ pull |	Fetch from and integrate with another repository or a local branch
 push |	Update remote refs along with associated objects
 ## Demo Video link
 https://www.youtube.com/watch?v=1gj32gH_UXY
+
+## Cheatsheet
+Link :- https://www.markdownguide.org/cheat-sheet/
